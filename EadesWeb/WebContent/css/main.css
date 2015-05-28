@@ -1,1 +1,31 @@
 @CHARSET "ISO-8859-1";
+
+.nav li {
+	float:left;
+	display:inline;
+	top:16px;
+	
+}
+
+.nav a{
+	color:#000000;
+	font-size:16px;
+	
+}
+
+.custom-header{
+	background-color:#FFFFFF;
+	height:90px;
+	border-bottom:3px solid #DFDFDF;
+	
+}
+
+.custom-header .container{
+	position:relative;
+	top:10px;
+}
+.main-title{
+	color:#000000;
+	padding-left:30px;
+	font-size:30px;
+}
