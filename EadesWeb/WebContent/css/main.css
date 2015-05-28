@@ -20,10 +20,6 @@
 	
 }
 
-.custom-header-spacer{
-	height:40px;
-}
-
 .custom-header .container{
 	position:relative;
 	top:10px;
@@ -34,6 +30,17 @@
 	font-size:30px;
 }
 
-.center {
-     text-align:center;
+.navbar{
+	background-color:#FFFFFF;
+	height:90px;
+	border-bottom:3px solid #DFDFDF;
+}
+
+.navbar .container {
+	position:relative;
+	top:10px;
+}
+
+.navbar-brand{
+	padding: 0px;
 }
