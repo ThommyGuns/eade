@@ -27,4 +27,5 @@ document.write('<div class="custom-header">\
 		</div>\
 		</div>\
 	</div>\
-</div>');
+</div>\
+<div class="custom-header-spacer visible-lg"></div>');
