@@ -9,7 +9,17 @@
 	<script src="js/bootstrap.min.js"></script>
 </head>
 <body>
+	<!-- include the top nav -->
 	<script src="js/top-nav.js"></script>
+	
+	<!-- set the active nav link styling in the top nav -->
+	<script>
+		$(document).ready(function () {
+	        $(".nav li").removeClass("active");
+	        $('#home').addClass('active');
+	    });
+	</script>
+	
 	<h1>Eade Fitness 24/7 Personal Training Services</h1>
 </body>
 </html>
