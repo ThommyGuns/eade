@@ -13,6 +13,13 @@
 
 <body>
 	<script src="js/top-nav.js"></script>
+	<!-- set the active nav link styling in the top nav -->
+	<script>
+		$(document).ready(function () {
+	        $(".nav li").removeClass("active");
+	        $('#trainers').addClass('active');
+	    });
+	</script>
 	<div class="container">
 		<h1>Personal Training Services</h1>
 		<p class="well">At Eades, our goal is to help everyone achieve the best results. With the help from our personal trainers,

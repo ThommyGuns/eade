@@ -24,6 +24,10 @@
 	position:relative;
 	top:10px;
 }
+
+.custom-header-spacer{
+	height:40px;
+}
 .main-title{
 	color:#000000;
 	padding-left:30px;
