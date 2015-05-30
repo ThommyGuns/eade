@@ -40,6 +40,10 @@
 	border-bottom:3px solid #DFDFDF;
 }
 
+.center{
+	text-align: center;
+}
+
 .navbar .container {
 	position:relative;
 	top:10px;
