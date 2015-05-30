@@ -29,7 +29,7 @@
 //);
 //
 document.write('\
- <nav class="navbar navbar-default">\
+ <nav class="navbar navbar-default top-nav">\
    <div class="container">\
 	     <div class="navbar-header">\
 			<a href="Home.html" class="navbar-brand"><img class="pull-left brand-image" src="assets/EF.jpg"></a>\
