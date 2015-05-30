@@ -54,5 +54,10 @@
 }
 
 .footer{
-	height: 40px;
+	height: 60px;
+	background-color: #424247;
+	line-height: 5px;
+}
+.navbar-default .navbar-text{
+	color: #E6E6E6;
 }
